@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [January 12th, Sunday, 2020].
 
 ## Log
 
+### R1D3 14.01.2020
+Forgot to update te file. Been working on my portfolio website as an excuse to learn more about the possibilities of SASS. 
+
 ### R1D2 13.01.2020
 Decided to do some basic stuff. Work on my 'portfolio' website, and learning SASS in the process. Went ahead and installed node.js and npm as well. Was very confused as to why SASS would be beneficial, but now I see how it works (with npm run *script* in the terminal), yeah, kinda cool.
 Learned a lot today. A good day to code o7
