@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [January 12th, Sunday, 2020].
 
 ## Log
 
+### R1D3 15.01.2020
+Hard at work at portfolio. Almost done. Learned so much about CSS, SASS, and basic Javascript. Amazing what you learn if you persist and spend like 4 hours in the evening just coding like a zombie. So glad I found the 100daysofcode challenge. Guess I needed that kick in the editor for some reason.
+
 ### R1D3 14.01.2020
 Forgot to update te file. Been working on my portfolio website as an excuse to learn more about the possibilities of SASS. 
 
