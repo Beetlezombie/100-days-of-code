@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge. Started on [January 12th, Sunday, 2020].
 
 ## Log
 
+### R1D4 16.01.
+Again messing with the portfolio. Keep changing colors. So much pretty to choose from. /joke
+Slowish evening. Long day at work, but I wanted to keep the momentum going and not miss and evening staring at a screen.
+
 ### R1D3 15.01.2020
 Hard at work at portfolio. Almost done. Learned so much about CSS, SASS, and basic Javascript. Amazing what you learn if you persist and spend like 4 hours in the evening just coding like a zombie. So glad I found the 100daysofcode challenge. Guess I needed that kick in the editor for some reason.
 
